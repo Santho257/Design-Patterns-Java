@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract Factory Method/Abstract Factory Method.iml" filepath="$PROJECT_DIR$/Abstract Factory Method/Abstract Factory Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge Pattern/Bridge Pattern.iml" filepath="$PROJECT_DIR$/Bridge Pattern/Bridge Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/Builder Pattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/Builder Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" filepath="$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" filepath="$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory Method Pattern/Factory Method Pattern.iml" filepath="$PROJECT_DIR$/Factory Method Pattern/Factory Method Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" filepath="$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonExamples/SingletonExamples.iml" filepath="$PROJECT_DIR$/SingletonExamples/SingletonExamples.iml" />
+    </modules>
+  </component>
+</project>
